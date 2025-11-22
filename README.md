@@ -1,6 +1,10 @@
 # DSSM
 DSSM: Dynamic Streaming Pipeline with Spatiotemporal Model toward Remote Sensing Object Detection
 
+![image](fig/benchmark_comparisons.png)
+
+Comparison with other state-of-the-art methods
+
 ## Table of Contents
 -  Dataset
 -  Conda Installation
